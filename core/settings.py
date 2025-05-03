@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     "corsheaders",
     "coreapi",
     "tasks",
+    'taskmanager',
 ]
 
 MIDDLEWARE = [
